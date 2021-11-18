@@ -1,4 +1,7 @@
 package com.amzn.qa.pages;
 
-public class HomePage {
+import com.amzn.qa.base.TestBase;
+
+public class HomePage extends TestBase {
+
 }
